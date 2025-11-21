@@ -6,12 +6,7 @@
       "displayName": "Full Stack Development",
       "image": "https://directus.crio.do/assets/1e6bb25d-21d2-43e8-a7ae-c605cca1d240.webp",
       "buttons": [
-        {
-          "id": "pff",
-          "label": "Profile Fitment Form",
-          "url": "https://rebrand.ly/crio-profile-fitment-form",
-          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
-        },
+        
         {
           "id": "brochure",
           "label": "Brochure",
@@ -44,12 +39,7 @@
       "displayName": "QA Automation",
       "image": "https://directus.crio.do/assets/85fdff1c-8032-491c-9ab5-527ad59dd815.webp",
       "buttons": [
-        {
-          "id": "pff",
-          "label": "Profile Fitment Form",
-          "url": "https://rebrand.ly/crio-profile-fitment-form",
-          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
-        },
+        
         {
           "id": "brochure",
           "label": "Brochure",
@@ -76,12 +66,7 @@
       "displayName": "System Design",
       "image": "https://directus.crio.do/assets/c1f3a8a7-928a-4ba6-944c-f1bcb9ee7baf.webp",
       "buttons": [
-        {
-          "id": "pff",
-          "label": "Profile Fitment Form",
-          "url": "https://rebrand.ly/crio-profile-fitment-form",
-          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
-        },
+        
         {
           "id": "brochure",
           "label": "Brochure",
@@ -96,12 +81,7 @@
       "displayName": "Data Analytics",
       "image": "https://directus.crio.do/assets/e0eeb9d0-6292-4ce2-acdb-fa9f6d92735a.webp",
       "buttons": [
-        {
-          "id": "pff",
-          "label": "Profile Fitment Form",
-          "url": "https://rebrand.ly/crio-profile-fitment-form",
-          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
-        },
+        
         {
           "id": "brochure",
           "label": "Brochure",
