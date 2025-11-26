@@ -6,7 +6,13 @@
       "displayName": "Full Stack Development",
       "image": "https://directus.crio.do/assets/1e6bb25d-21d2-43e8-a7ae-c605cca1d240.webp",
       "buttons": [
-        
+        {
+          "id": "pff",
+          "label": "Profile Fitment Form",
+          "url": "https://rebrand.ly/crio-profile-fitment-form",
+          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
+        },
+
         {
           "id": "brochure",
           "label": "Brochure",
